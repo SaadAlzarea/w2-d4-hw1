@@ -79,3 +79,14 @@ table{
     text-align: center;
     color: aliceblue;
 }
+
+.contact{
+    border: 1px solid white;
+    border-radius: 15px;
+    background-color: aliceblue;
+    margin: 0 auto;
+    margin:3% 30%;
+    color: rgb(31, 105, 169);
+    text-align: center;
+    padding: 2%;
+}
