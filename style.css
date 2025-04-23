@@ -1,6 +1,38 @@
-body{
-    margin: 0%;
-    padding: 0%;
-    background-image: url(./OceansImage.png);
-    background-size: cover;
+@import url("https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@10..900&family=Special+Gothic+Expanded+One&display=swap");
+
+body {
+  margin: 0%;
+  padding: 0%;
+  background-image: url(./OceansImage.png);
+  background-size: cover;
+
+}
+
+nav {
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 100;
+    font-style: 2em;
+    color: aliceblue;
+    text-align: center;
+    .header{
+        font-size: 3em;
+        text-align: center;
+    }
+}
+.main-para{
+    /* font-family: "Special Gothic Expanded One", sans-serif; */
+    font-weight: 100;
+    border: 1px solid white;
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 1%;
+    font-size: 1.1em;  
+    margin: 3%;
+    color: rgb(16, 49, 78);
+}
+
+.journey-object{
+    color: aliceblue;
+    margin-left: 3%;
+    font-size: 1.3em;
 }
