@@ -3,7 +3,7 @@
 body {
   margin: 0%;
   padding: 0%;
-  background-image: url(./OceansImage.png);
+  background-image: url(./image/OceansImage.png);
   background-size: cover;
 
 }
@@ -48,5 +48,34 @@ nav {
     font-size: 1.2em;
     text-align: center;
     margin: 3%;
+    color: aliceblue;
+}
+.fich-type{
+    font-size: 1.2em;
+    text-align: center;
+    margin: 3%;
+    color: aliceblue;
+}
+table{
+    border: 1px solid white;
+    color: aliceblue;
+    margin: 2% ;
+    
+    th{
+        border: 1px solid white;
+        padding: 8px
+    }
+}
+
+.the-end{
+    padding: 3%;
+    font-size: 1em;
+    text-align: center;
+    margin: 3%;
+    color: aliceblue;
+}
+
+.trip{
+    text-align: center;
     color: aliceblue;
 }
